@@ -11,7 +11,7 @@ I’m a passionate **Backend Developer** and **Data Enthusiast** specializing in
 - 📫 How to reach me: **achdiwafiul@gmail.com**
 - ⚡ Fun fact: I love combining data science with backend engineering to build intelligent applications!
 
----
+
 
 <h2 align="left">Tech Stack</h2>
 
@@ -68,7 +68,7 @@ I’m a passionate **Backend Developer** and **Data Enthusiast** specializing in
 </div>
 
 ###
----
+
 
 <h2 align="left">Social Media</h2>
 
