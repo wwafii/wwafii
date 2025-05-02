@@ -1,6 +1,6 @@
 ![Wafiul Achdi](img/github-header-image.png)
 
-<h2 align="left">About me</h2>
+<h2 align="left">👤About me:</h2>
 
 I’m a passionate **Backend Developer** and **Data Enthusiast** specializing in building scalable backend systems and exploring Artificial Intelligence & Machine Learning.
 
@@ -10,10 +10,11 @@ I’m a passionate **Backend Developer** and **Data Enthusiast** specializing in
 - 💬 Ask me about backend development, data engineering, and machine learning  
 - 📫 How to reach me: **achdiwafiul@gmail.com**
 - ⚡ Fun fact: I love combining data science with backend engineering to build intelligent applications!
+- 🏃‍♂️ Outside of coding, I enjoy staying active through running and weightlifting.
 
 
 
-<h2 align="left">Tech Stack</h2>
+<h2 align="left">💻Tech Stack:</h2>
 
 ###
 
@@ -81,7 +82,7 @@ I’m a passionate **Backend Developer** and **Data Enthusiast** specializing in
 ###
 
 
-<h2 align="left">Social Media</h2>
+<h2 align="left">🌐Social Media:</h2>
 
 ###
 
