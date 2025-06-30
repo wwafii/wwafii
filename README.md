@@ -4,15 +4,13 @@
 
 I’m a passionate **Backend Developer** and **Data Enthusiast** specializing in building scalable backend systems and exploring Artificial Intelligence & Machine Learning.
 
-- 🔭 I’m currently working on backend APIs and deploying ML models in production  
-- 🌱 I’m currently learning MLOps and advanced model deployment techniques  
-- 👯 I’m looking to collaborate on open-source AI and backend projects  
-- 💬 Ask me about backend development, data engineering, and machine learning  
+- 🔭 I’m currently working on backend APIs and deploying ML models in production
+- 🌱 I’m currently learning MLOps and advanced model deployment techniques
+- 👯 I’m looking to collaborate on open-source AI and backend projects
+- 💬 Ask me about backend development, data engineering, and machine learning
 - 📫 How to reach me: **achdiwafiul@gmail.com**
 - ⚡ Fun fact: I love combining data science with backend engineering to build intelligent applications!
 - 🏃‍♂️ Outside of coding, I enjoy staying active through running and weightlifting.
-
-
 
 <h2 align="left">💻Tech Stack:</h2>
 
@@ -31,6 +29,8 @@ I’m a passionate **Backend Developer** and **Data Enthusiast** specializing in
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+<img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="electron logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
@@ -55,6 +55,8 @@ I’m a passionate **Backend Developer** and **Data Enthusiast** specializing in
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+<img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
@@ -80,7 +82,6 @@ I’m a passionate **Backend Developer** and **Data Enthusiast** specializing in
 </div>
 
 ###
-
 
 <h2 align="left">🌐Social Media:</h2>
 
@@ -111,6 +112,4 @@ I’m a passionate **Backend Developer** and **Data Enthusiast** specializing in
 
 ###
 
-
 ###
-
