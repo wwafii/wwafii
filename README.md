@@ -99,9 +99,6 @@ I’m a passionate **Backend Developer** and **Data Enthusiast** specializing in
   <a href="https://www.youtube.com/@wafiulachdi1594" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="24" alt="youtube logo"  />
   </a>
-  <a href="waiful2587" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="24" alt="discord logo"  />
-  </a>
 </div>
 
 ###
